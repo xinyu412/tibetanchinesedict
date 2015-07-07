@@ -1,2 +1,2 @@
 # tibetanchinesedict
-藏漢大辭典 data from monlam 
+藏漢大辭典
